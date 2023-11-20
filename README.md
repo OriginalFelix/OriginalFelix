@@ -1,16 +1,49 @@
-### Hi there 👋
+# Hello, World! 👋
+
+Welcome to my GitHub profile! I'm Felix, a passionate Developer based in Germany. Here, you'll find a mix of my coding adventures, side projects, and a glimpse into the world of bits and bytes.
+
+## 🔧 Technologies & Tools
+
+I love experimenting with various technologies and tools. Some of my favorites include:
+
+- **Languages:** Java, C#, Rust, NodeJS
+- **Web Technologies:** HTML, CSS, PHP
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, IntelliJ, DataGrip, VS Code
 
 <!--
-**OriginalFelix/OriginalFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+Here are a few projects that I'm proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1. **[Project 1](#)**
+   - Description: Brief project overview.
+   - Technologies: List of technologies used.
+   - Demo: [Link to live demo]
+
+2. **[Project 2](#)**
+   - Description: Brief project overview.
+   - Technologies: List of technologies used.
+   - Demo: [Link to live demo]
+
+3. **[Project 3](#)**
+   - Description: Brief project overview.
+   - Technologies: List of technologies used.
+   - Demo: [Link to live demo]
+
+Feel free to explore these projects, and don't hesitate to open issues or submit pull requests if you have any suggestions or improvements!
 -->
+
+## 📫 Let's Connect
+
+- **Twitter:** [@ServerIcon](#)
+
+I'm always open to interesting conversations, collaboration opportunities, or just exchanging ideas. Feel free to reach out!
+
+## 🌱 Learning & Growing
+
+I believe in the power of continuous learning. Currently, I'm diving into Vaadin. Excited to share my progress and insights with you!
+
+Thanks for dropping by! 🚀✨
+
+Happy coding! 🎉
