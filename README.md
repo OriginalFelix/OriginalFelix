@@ -34,12 +34,6 @@ Here are a few projects that I'm proud of:
 Feel free to explore these projects, and don't hesitate to open issues or submit pull requests if you have any suggestions or improvements!
 -->
 
-## 📫 Let's Connect
-
-- **Twitter:** [@ServerIcon](#)
-
-I'm always open to interesting conversations, collaboration opportunities, or just exchanging ideas. Feel free to reach out!
-
 ## 🌱 Learning & Growing
 
 I believe in the power of continuous learning. Currently, I'm diving into Vaadin. Excited to share my progress and insights with you!
