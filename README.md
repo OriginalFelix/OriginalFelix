@@ -8,7 +8,7 @@ I love experimenting with various technologies and tools. Some of my favorites i
 
 - **Languages:** Java, C#, Rust, NodeJS
 - **Web Technologies:** HTML, CSS, PHP
-- **Database:** MongoDB, MySQL
+- **Database:** MariaDB, ScyllaDB
 - **Tools:** Git, IntelliJ, DataGrip, VS Code
 
 <!--
